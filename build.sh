@@ -3,7 +3,6 @@
 # Example: ./build.sh terra-jupyter-base
 set -e -x
 
-
 IMAGE_DIR=$1
 SKIP_GCP_AUTH=$2
 VERSION="2.1.100"
